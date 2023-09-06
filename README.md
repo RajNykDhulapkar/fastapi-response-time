@@ -1,7 +1,3 @@
-Certainly! Here's a basic `README.md` for your `fastapi-response-time` package:
-
----
-
 # FastAPI Response Time Middleware
 
 `fastapi-response-time` is a simple middleware for FastAPI applications that adds an `X-Response-Time` header to responses, indicating how many milliseconds the server took to process the request.
